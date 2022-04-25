@@ -33,7 +33,7 @@ public class PointTest {
     }
 
     @Test
-    public void when000to222then4() {
+    public void when000to101010then15() {
         Point a = new Point(0, 0, 0);
         Point b = new Point(10, 10, 5);
         double expected = 15;
